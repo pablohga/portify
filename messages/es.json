@@ -1,0 +1,14 @@
+{
+  "heroSection":{
+    "title":"Welcome to our website",
+    "subtitle":"This is a sample website"
+    },
+    "heroDialog":{
+    "titleField":"Welcome to our website",
+    "titleDescritption":"Welcome to our website",
+    "subtitleField":"This is a sample website",
+    "subtitleDescritption":"Welcome to our website",
+    "backGroundField":"This is a sample website",
+    "backGroundDescription":"This is a sample website"
+    }
+}
